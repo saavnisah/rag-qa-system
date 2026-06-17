@@ -1,4 +1,4 @@
-# AWS Customer Agreement RAG Question Answering System
+# RAG Question Answering System
 
 ## Overview
 
