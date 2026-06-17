@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+streamlit
+requests
+sentence-transformers
+faiss-cpu
+langchain
+langchain-community
+pypdf
+pdfplumber
+pandas
+numpy
+scikit-learn
+transformers
+torch
+sqlalchemy
+tqdm
